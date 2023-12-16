@@ -168,6 +168,10 @@ body {
   color: #2a2a2a;
   font-weight: 700;
   text-transform: capitalize;
+  font-size: 30px;
+}
+.logo a {
+  text-decoration: none;
 }
 .logo  em {
   font-style: normal;
@@ -1673,7 +1677,7 @@ responsive
 
 @media (max-width: 1200px) {
   .header-area .main-nav .logo h4 {
-    font-size: 24px;
+    font-size: 30px;
   }
   .header-area .main-nav .logo h4 img {
     max-width: 25px;
@@ -1689,7 +1693,7 @@ responsive
     overflow: hidden;
   }
   .header-area .main-nav .logo h4 {
-    font-size: 20px;
+    font-size: 30px;
   }
   .main-banner .left-content {
     margin-right: 0px;
